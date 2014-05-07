@@ -18,3 +18,4 @@ class LogsControllerSpec extends Specification {
     void "test something"() {
     }
 }
+
